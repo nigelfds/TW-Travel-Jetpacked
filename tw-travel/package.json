@@ -1,0 +1,8 @@
+{
+    "id": "jid0-VnBCVqTkqOCud8aVAQlVrAcr7Vw", 
+    "dependencies": [
+        "jetpack-core"
+    ], 
+    "description": "TW Travel Assistant Package", 
+    "author": "Thoughtworks (http://www.thoughtworks.com)"
+}
